@@ -1,1 +1,17 @@
+/* Typography */
+h1, h2 {
+    font-family: 'Gideon Roman', cursive;
+    color: blueviolet;
+}
 
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #008080;
+}
+
+/* Layout */
+
+
+/* Media */
